@@ -1,6 +1,6 @@
-# Actividad 2 - Programacion Orientada a Objetos
+# Actividad de aprendizaje 2 - Programación con Lenguaje Java 
 
-Proyecto de aprendizaje para practicar conceptos de POO en Java.
+Este proyecto contiene el código fuente con el desarrollo de la actividad
 
 ## Requisitos
 
